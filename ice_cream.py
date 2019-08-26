@@ -5,5 +5,8 @@ def check_ice_cream(ball):
 
 
 if __name__ == "__main__":
+    """ 
+    Ivan, why did you write dump message?
+    """
     ball = int(input('Hi  everyone!!! enter the numbers of balls-'))
     print("yes" if check_ice_cream(ball) else "no")
