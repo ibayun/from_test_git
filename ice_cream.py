@@ -5,5 +5,5 @@ def check_ice_cream(ball):
 
 
 if __name__ == "__main__":
-    ball = int(input('enter the numbers of balls-'))
+    ball = int(input('Hi  everyone!!! enter the numbers of balls-'))
     print("yes" if check_ice_cream(ball) else "no")
